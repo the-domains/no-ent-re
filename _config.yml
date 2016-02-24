@@ -1,7 +1,7 @@
 name: no-ent.re
 favicon: null
-layout_spectrum: 0.9302175445482135
-typography_spectrum: 0.8635652961675078
+layout_spectrum: 0.75686
+typography_spectrum: 0
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#3B407C'
     - '#547AB1'
     - '#CEAFC0'
-  brandStrength: 0.016473075142130256
+  brandStrength: 0
   lightness: 0.09172252006828785
-  saturation: 0.014773098286241293
+  saturation: 1
   rhythmicContrast: 0.9270671457052231
 purpose: []
